@@ -20,4 +20,9 @@ It will hold functions for addLiquidity, price, price correction, and swapping a
 
 We will pay close attention to Jewain's works and explanations as he puts it on his repo; https://github.com/Jeiwan/zuniswap
 
-### LFG!!!
+### ACTIVITY
+
+1. Fork the repo on the link
+2. Study closely on the concepts taught there, visit the links and read thoroughly
+3. Create a branch on this repo and commit your codes to; first on the Token Contract.
+4. We will evaluate and merge accordingly  
