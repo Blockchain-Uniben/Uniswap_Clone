@@ -28,4 +28,4 @@ We will pay close attention to Jewain's works and explanations as he puts it on 
 4. We will evaluate and merge accordingly
 5. We have the next one week to get this done
 
-## LFG!
+## LFG! 🚀
