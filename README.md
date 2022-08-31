@@ -1,4 +1,4 @@
-## uniswapV1_Clone
+## UniswapV1_Clone
 ### A public repo to explore the intricacies of Uniswap Architecture for educational and experimental purposes
 
 Uniswap is a cryptocurrency exchange which uses a decentralized network protocol.
@@ -7,8 +7,8 @@ It is an automated liquidity protocol powered by a constant product formula and 
 In Uniswap version 1 which will be of focus on this repository, we will be considering the development of two main contracts which formed the basis of the software before it's subsequent updates.
 
 ### We will build the;
-1. Token Contract
-2. Exchange Contract
+1. [Token Contract](#token-contract)
+2. [Exchange Contract](#exchange-contract)
 
 ## Token Contract
 Uniswap V1 supports only ether-token swaps. To make that possible we will build an ERC20 token contract for our custom token that will trade against ether. 
@@ -18,14 +18,15 @@ The Exchange contract is where all the processing happens, it actually defines e
 
 It will hold functions for addLiquidity, price, price correction, and swapping algorithms,swap fees, etc.
 
-We will pay close attention to Jewain's works and explanations as he puts it on his repo; https://github.com/Jeiwan/zuniswap
+We will pay close attention to Jewain's works and explanations as he puts it on his [repo](https://github.com/Jeiwan/zuniswap); https://github.com/Jeiwan/zuniswap
+
 
 ### ACTIVITY
 
-1. Fork the repo on the link
-2. Study closely on the concepts taught there, visit the links and read thoroughly
-3. Create a branch on this repo and commit your codes to; first on the Token Contract.
-4. We will evaluate and merge accordingly
-5. We have the next one week to get this done
+- [Fork the repo on the link](https://github.com/Blockchain-Uniben/Uniswap_Clone-V1/fork)
+- Study closely on the concepts taught there, visit the links and read thoroughly
+- Create a branch on this repo and commit your codes to; first on the Token Contract.
+- We will evaluate and merge accordingly
+- We have the next one week to get this done
 
 ## LFG! 🚀
